@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 1609dd0898f98ef439746ffb7990efff
+timeCreated: 1468719810
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AnimacionGameOver_0
+    21300002: AnimacionGameOver_1
+    21300004: AnimacionGameOver_2
+    21300006: AnimacionGameOver_3
+    21300008: AnimacionGameOver_4
+    21300010: AnimacionGameOver_5
+    21300012: AnimacionGameOver_6
+    21300014: AnimacionGameOver_7
+    21300016: AnimacionGameOver_8
+    21300018: AnimacionGameOver_9
+    21300020: AnimacionGameOver_10
+    21300022: AnimacionGameOver_11
+    21300024: AnimacionGameOver_12
+    21300026: AnimacionGameOver_13
+    21300028: AnimacionGameOver_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AnimacionGameOver_0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 490
+        width: 88
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 122.5}
+        - {x: -44, y: 122.5}
+        - {x: -44, y: 16.5}
+        - {x: -41, y: 8.5}
+        - {x: -33, y: 12.5}
+        - {x: -39, y: -42.5}
+        - {x: -34, y: -119.5}
+        - {x: -29, y: -122.5}
+        - {x: 30, y: -122.5}
+        - {x: 44, y: -109.5}
+        - {x: 44, y: 119.5}
+    - name: AnimacionGameOver_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 490
+        width: 88
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 122.5}
+        - {x: -44, y: 99.5}
+        - {x: -44, y: -96.5}
+        - {x: -43, y: -122.5}
+        - {x: 44, y: -122.5}
+        - {x: 44, y: 122.5}
+    - name: AnimacionGameOver_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 490
+        width: 88
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 122.5}
+        - {x: -44, y: 99.5}
+        - {x: -44, y: -96.5}
+        - {x: -43, y: -122.5}
+        - {x: 44, y: -122.5}
+        - {x: 44, y: 122.5}
+    - name: AnimacionGameOver_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 490
+        width: 91
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 122.5}
+        - {x: -45.5, y: 106.5}
+        - {x: -45.5, y: -73.5}
+        - {x: -37.5, y: -120.5}
+        - {x: -33.5, y: -122.5}
+        - {x: 45.5, y: -122.5}
+        - {x: 45.5, y: 122.5}
+    - name: AnimacionGameOver_4
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 490
+        width: 91
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 122}
+        - {x: -38.5, y: 122}
+        - {x: -45.5, y: 75}
+        - {x: -45.5, y: 17}
+        - {x: -36.5, y: 13}
+        - {x: -44.5, y: -35}
+        - {x: -33.5, y: -122}
+        - {x: 29.5, y: -122}
+        - {x: 44.5, y: -110}
+        - {x: 45.5, y: -85}
+        - {x: 45.5, y: 115}
+    - name: AnimacionGameOver_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 490
+        width: 91
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 122.5}
+        - {x: -45.5, y: -122.5}
+        - {x: 35.5, y: -122.5}
+        - {x: 45.5, y: -112.5}
+        - {x: 45.5, y: 122.5}
+    - name: AnimacionGameOver_6
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 489
+        width: 91
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 122.5}
+        - {x: -45.5, y: 111.5}
+        - {x: -45.5, y: -57.5}
+        - {x: -35.5, y: -122.5}
+        - {x: 41.5, y: -122.5}
+        - {x: 45.5, y: -110.5}
+        - {x: 45.5, y: 122.5}
+    - name: AnimacionGameOver_7
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 490
+        width: 91
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 122}
+        - {x: -45.5, y: 122}
+        - {x: -45.5, y: -122}
+        - {x: 35.5, y: -122}
+        - {x: 41.5, y: -111}
+        - {x: 44.5, y: -102}
+        - {x: 45.5, y: -88}
+    - name: AnimacionGameOver_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 169
+        width: 91
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 122}
+        - {x: -45.5, y: -122}
+        - {x: 36.5, y: -122}
+        - {x: 45.5, y: -111}
+        - {x: 45.5, y: 122}
+    - name: AnimacionGameOver_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 169
+        width: 91
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 122}
+        - {x: -45.5, y: 101}
+        - {x: -45.5, y: 21}
+        - {x: -42.5, y: 18}
+        - {x: -31.5, y: 12}
+        - {x: -37.5, y: -35}
+        - {x: -38.5, y: -99}
+        - {x: -34.5, y: -122}
+        - {x: 45.5, y: -122}
+        - {x: 45.5, y: 122}
+    - name: AnimacionGameOver_10
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 169
+        width: 90
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 122}
+        - {x: -45, y: 23}
+        - {x: -36, y: 13}
+        - {x: -32, y: 13}
+        - {x: -39, y: -122}
+        - {x: 35, y: -122}
+        - {x: 45, y: -112}
+        - {x: 45, y: 111}
+        - {x: 39, y: 122}
+    - name: AnimacionGameOver_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 168
+        width: 90
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 122.5}
+        - {x: -45, y: 87.5}
+        - {x: -45, y: 24.5}
+        - {x: -40, y: 14.5}
+        - {x: -33, y: 11.5}
+        - {x: -37, y: -100.5}
+        - {x: -35, y: -122.5}
+        - {x: 45, y: -122.5}
+        - {x: 45, y: 122.5}
+    - name: AnimacionGameOver_12
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 168
+        width: 91
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 122.5}
+        - {x: -45.5, y: 79.5}
+        - {x: -45.5, y: -122.5}
+        - {x: 43.5, y: -122.5}
+        - {x: 45.5, y: -102.5}
+        - {x: 45.5, y: 122.5}
+    - name: AnimacionGameOver_13
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 168
+        width: 91
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 122.5}
+        - {x: -45.5, y: 117.5}
+        - {x: -45.5, y: -122.5}
+        - {x: 26.5, y: -122.5}
+        - {x: 45.5, y: -111.5}
+        - {x: 45.5, y: 120.5}
+        - {x: 19.5, y: 122.5}
+    - name: AnimacionGameOver_14
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 168
+        width: 91
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 122.5}
+        - {x: -45.5, y: 106.5}
+        - {x: -45.5, y: -68.5}
+        - {x: -40.5, y: -122.5}
+        - {x: 45.5, y: -122.5}
+        - {x: 45.5, y: 122.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

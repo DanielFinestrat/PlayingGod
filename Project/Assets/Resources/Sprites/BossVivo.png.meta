@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 924fe29e3f5d6e94f8f649d7c0ec4a9d
+timeCreated: 1468719401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BossVivo_0
+    21300002: BossVivo_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BossVivo_0
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 397
+        width: 132
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 209}
+        - {x: -66, y: 207}
+        - {x: -66, y: 11}
+        - {x: 47, y: 11}
+        - {x: 66, y: 54}
+        - {x: 66, y: 141}
+        - {x: 45, y: 209}
+    - name: BossVivo_1
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 397
+        width: 131
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 238}
+        - {x: -65.5, y: 228}
+        - {x: -65.5, y: 41}
+        - {x: 44.5, y: 41}
+        - {x: 65.5, y: 84}
+        - {x: 65.5, y: 175}
+        - {x: 46.5, y: 238}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
